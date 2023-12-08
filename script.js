@@ -2,7 +2,7 @@
 
     function increment() {
         // Display the un-incremented value in an alert
-        alert("The un-incremented value is: " + counterValue);
+        alert(counterValue);
 
         // Increment the counter value
         counterValue++;
